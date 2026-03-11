@@ -21,6 +21,4 @@ Built a real-time heart rate monitoring system using an ESP32 and MAX30102 photo
 - Scikit-learn
 
 
-## Hardware Setup
 
-![Hardware Setup](Images/IMG_7872.jpeg)
