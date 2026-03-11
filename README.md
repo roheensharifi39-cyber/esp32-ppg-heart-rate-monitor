@@ -19,9 +19,8 @@ Built a real-time heart rate monitoring system using an ESP32 and MAX30102 photo
 - Pandas
 - Matplotlib
 - Scikit-learn
-- 
+
+
 ## Hardware Setup
 
-ESP32 connected to MAX30102 PPG sensor and OLED display.
-
-![Hardware Setup](images/allthreeimages/IMG_7872.jpeg)
+![Hardware Setup](Images/IMG_7872.jpeg)
